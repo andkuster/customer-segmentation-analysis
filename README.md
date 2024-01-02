@@ -39,6 +39,7 @@ The dataset contains 541.9k samples of the online purchase history of 2.4k custo
 - **Customer Segmentation:** Applying Unsupervised Machine Learning Techinque (K-Means) to cluster customers based on relevant features.
 - **Visualization:** Creating visual representations to illustrate the segmented customer groups.
 - **Insights and Recommendations:** Deriving actionable insights from the segmentation results and suggesting targeted strategies.
+###### Notebook: [Access here](https://github.com/andkuster/customer-segmentation-analysis/blob/main/portfolio_customer_segmentation.ipynb)
 
 ## Technologies
 
