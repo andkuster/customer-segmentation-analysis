@@ -1,6 +1,6 @@
 # Customer Segmentation Analysis
 
-This project aims to perform segmentation analysis on a dataset to better understand customer groups and and optimize marketing strategies.
+This project aims to perform segmentation analysis on a dataset to better understand customer groups and optimize marketing strategies.
 
 <div align="center">
     <img alt="churn" src="https://github.com/andkuster/customer-segmentation-analysis/blob/main/blake-wisz-unsplash-customer-segmentation.jpg" width="100%" height="300">
