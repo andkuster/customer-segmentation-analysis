@@ -23,8 +23,10 @@ This project aims to perform segmentation analysis on a dataset to better unders
 
 ## Introduction
 Customer segmentation analysis involves dividing a customer base into groups that share similar characteristics such as behavior, demographics, or purchasing habits. 
-This project utilizes a public dataset to perform customer segmentation using K-means clustering. 
+<br>
+<br>
 By segmenting customers, businesses can identify distinct groups and personalize their marketing efforts, leading to improved customer satisfaction and increased sales.
+This project utilizes a public dataset to perform customer segmentation using K-means clustering.
 
 ## Dataset
 The dataset contains 541.9k samples of the online purchase history of 2.4k customers.
