@@ -1,7 +1,16 @@
 # Customer Segmentation Analysis
 
-Customer segmentation analysis involves dividing a customer base into groups that share similar characteristics such as behavior, demographics, or purchasing habits. 
-This project aims to perform segmentation analysis on a dataset to better understand customer groups and tailor marketing strategies accordingly.
+This project aims to perform segmentation analysis on a dataset to better understand customer groups and and optimize marketing strategies.
+
+<div align="center">
+    <img alt="churn" src="https://github.com/andkuster/customer-segmentation-analysis/blob/main/blake-wisz-unsplash-customer-segmentation.jpg" width="100%" height="300">
+</div>
+
+<div style="text-align:right;">
+  <sub>Pic Credit: 
+    <a href="https://unsplash.com/pt-br/@blakewisz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Blake Wisz</a> na <a href="https://unsplash.com/pt-br/fotografias/pessoa-segurando-cartao-de-credito-maquina-de-passar--JJg90OAnWI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  </sub>
+</div>
 
 ## Table of Contents
 
@@ -13,6 +22,7 @@ This project aims to perform segmentation analysis on a dataset to better unders
 - [License](#license)
 
 ## Introduction
+Customer segmentation analysis involves dividing a customer base into groups that share similar characteristics such as behavior, demographics, or purchasing habits. 
 This project utilizes a public dataset to perform customer segmentation using K-means clustering. 
 By segmenting customers, businesses can identify distinct groups and personalize their marketing efforts, leading to improved customer satisfaction and increased sales.
 
